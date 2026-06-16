@@ -56,11 +56,15 @@ Tabela responsável por relacionar livros aos empréstimos.
 
 ## Consultas Desenvolvidas
 
-*Livros publicados após o ano 2000
-*Livros e suas categorias
-*Quantidade de livros por categoria
-*Quantidade de empréstimos por cliente
-*Total de livros emprestados por cliente
+* Livros publicados após o ano 2000.
+
+* Livros e suas categorias.
+
+* Quantidade de livros por categoria.
+
+* Quantidade de empréstimos por cliente.
+
+* Total de livros emprestados por cliente.
 
 
 ---
